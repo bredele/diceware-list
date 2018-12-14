@@ -1,0 +1,27 @@
+{
+  "name": "diceware-list",
+  "version": "1.0.0",
+  "description": "Diceware list of words (default english)",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/diceware-list-en.git"
+  },
+  "keywords": [
+    "diceware",
+    "list",
+    "english"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/diceware-list-en/issues"
+  },
+  "homepage": "https://github.com/bredele/diceware-list-en#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
